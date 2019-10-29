@@ -1,3 +1,6 @@
 {
-  "projects": {}
+  "projects": {
+    "Email": "https://github.com/casprsoftware/Extensions.Email.git",
+    "Email.SendGrid": "https://github.com/casprsoftware/Extensions.Email.SendGrid.git"
+  }
 }
