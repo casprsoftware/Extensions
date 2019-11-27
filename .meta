@@ -2,6 +2,7 @@
   "projects": {
     "Email": "https://github.com/casprsoftware/Extensions.Email.git",
     "Email.SendGrid": "https://github.com/casprsoftware/Extensions.Email.SendGrid.git",
-    "Email.Razor": "https://github.com/casprsoftware/Extensions.Email.Razor.git"
+    "Email.Razor": "https://github.com/casprsoftware/Extensions.Email.Razor.git",
+    "Email.Queue": "https://github.com/casprsoftware/Extensions.Email.Queue.git"
   }
 }
